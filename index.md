@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<iframe src="https://onedrive.live.com/embed?cid=30862A3A113E93B7&amp;resid=30862A3A113E93B7%21149&amp;authkey=AAmk4-c4oAJlvxA&amp;em=2&amp;wdStartOn=1" width="476px" height="288px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> PDF，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
+
